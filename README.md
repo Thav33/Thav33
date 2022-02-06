@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor
-- 👀 I’m interested in Developing real life solutions with web technologies
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Developing real life solutions with web/blockchain technologies 
+- 🌱 I’m currently working with JavaScript, 
 - 💞️ I’m looking to collaborate on JavaScript related projects
 - 📫 How to reach me: Iam.vee01@gmail.com
 
