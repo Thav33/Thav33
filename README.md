@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS**
 
-- 👯 I’m looking to collaborate on **javaScript related projects**
+- 👯 I’m looking to collaborate on **javaScript/nodeJS related projects**
 
 - 📫 How to reach me **iam.vee01@gmail.com**
 
