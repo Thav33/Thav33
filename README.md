@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **javaScript/nodeJS related projects**
 
-- 📫 How to reach me **iam.vee01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
