@@ -11,7 +11,8 @@
 
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 
-<h3 align="left">Connect with me:  **iam.victor@yahoo.co.uk** </h3>
+- 📫 You can contact me by emailing iam.victor@yahoo.co.uk.
+
 <p align="left">
 </p>
 
