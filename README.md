@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Victor Abolarin</h1>
 <h3 align="center">An ambitious problem solver with a passion and keen interest in web technologies and how it solves real life problems.</h3>
 
+- 😊 Pronouns: He/him
+
 - 🌱 I’m currently learning **JavaScript, NodeJS**
 
-- 👯 I’m looking to collaborate on **javaScript/nodeJS related projects**
+- 👯 I’m looking to collaborate on **JavaScript/NodeJS related projects**
 
-- 📫 How to reach me **iam.victor@yahoo.co.uk**
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+
+- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+
+- 📫 How to reach me by emailing **iam.victor@yahoo.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
